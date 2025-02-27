@@ -1,6 +1,8 @@
-// Problem Solving
+/* Problem Solving
 
-// forEach() => Loops through the array and executes a callback for each element
+forEach() => Loops through the array and executes a callback for each element
+
+*/
 
 let arr = [1,2,3,4];
 
